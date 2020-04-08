@@ -1,3 +1,7 @@
+"""
+Video converter: Converts a video file to images with rate of 1 image per 1/2 second.
+"""
+
 import cv2
 vidcap = cv2.VideoCapture('/home/ioannis/Videos/4K Video Downloader/video1.mp4')
 def getFrame(sec):
