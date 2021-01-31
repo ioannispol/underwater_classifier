@@ -2,6 +2,8 @@
 
 This is a complete set of an initial attempt to create a basic dataset containing 2 classes of underwater images, a class of pipes and a class with the underwater environment generally.
 
+* The new dataset can be found [here](https://drive.google.com/file/d/1zsMznVwrxo1gUF-1sQYIh0UID05IDcSS/view?usp=sharing)
+
 # Anaconda configuration for CPU and GPU
 
 Deploying a Machine Learning and Deep Learning poject is not always straight forward particularly when we need to run the model in the GPU, if there is one in our machine.
